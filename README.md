@@ -26,7 +26,7 @@ A powerful, multi-threaded port scanner built in Python to identify open ports, 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/port-scanner.git
+   git clone https://github.com/seiethereum/Port-Scanner.git
    cd port-scanner
    ```
 
